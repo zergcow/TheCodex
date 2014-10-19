@@ -8,6 +8,7 @@ gem 'mysql2'
 
 # Manually added gems
 gem 'devise'
+gem 'simple_form', '~> 3.0.2'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
